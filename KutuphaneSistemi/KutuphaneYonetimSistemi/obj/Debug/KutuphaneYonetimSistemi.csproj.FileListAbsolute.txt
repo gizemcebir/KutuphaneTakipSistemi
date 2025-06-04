@@ -1,0 +1,10 @@
+C:\Users\gzmce\OneDrive - Firat University\Belgeler\VS C#\KutuphaneSistemi\KutuphaneYonetimSistemi\bin\Debug\KutuphaneYonetimSistemi.exe.config
+C:\Users\gzmce\OneDrive - Firat University\Belgeler\VS C#\KutuphaneSistemi\KutuphaneYonetimSistemi\bin\Debug\KutuphaneYonetimSistemi.exe
+C:\Users\gzmce\OneDrive - Firat University\Belgeler\VS C#\KutuphaneSistemi\KutuphaneYonetimSistemi\bin\Debug\KutuphaneYonetimSistemi.pdb
+C:\Users\gzmce\OneDrive - Firat University\Belgeler\VS C#\KutuphaneSistemi\KutuphaneYonetimSistemi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gzmce\OneDrive - Firat University\Belgeler\VS C#\KutuphaneSistemi\KutuphaneYonetimSistemi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gzmce\OneDrive - Firat University\Belgeler\VS C#\KutuphaneSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\gzmce\OneDrive - Firat University\Belgeler\VS C#\KutuphaneSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\gzmce\OneDrive - Firat University\Belgeler\VS C#\KutuphaneSistemi\KutuphaneYonetimSistemi\obj\Debug\Kutuphan.9AB83282.Up2Date
+C:\Users\gzmce\OneDrive - Firat University\Belgeler\VS C#\KutuphaneSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.exe
+C:\Users\gzmce\OneDrive - Firat University\Belgeler\VS C#\KutuphaneSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.pdb
